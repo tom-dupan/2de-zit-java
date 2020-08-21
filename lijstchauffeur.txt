@@ -1,0 +1,5 @@
+Bestelling{bestelnummer=0, klantennummer=3, postcode=1000, grootte=1, besteldatum=2020-08-17, prior=true, status=AT_DEPOT}
+Bestelling{bestelnummer=0, klantennummer=1, postcode=3500, grootte=90, besteldatum=2020-08-17, prior=true, status=AT_DEPOT}
+Bestelling{bestelnummer=0, klantennummer=3, postcode=7000, grootte=19, besteldatum=2020-08-17, prior=true, status=AT_DEPOT}
+Bestelling{bestelnummer=0, klantennummer=1, postcode=8500, grootte=32, besteldatum=2020-08-17, prior=true, status=AT_DEPOT}
+Bestelling{bestelnummer=0, klantennummer=1, postcode=9500, grootte=33, besteldatum=2020-08-17, prior=true, status=AT_DEPOT}

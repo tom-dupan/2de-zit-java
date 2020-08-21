@@ -45,12 +45,6 @@ public class Inlaaddienst extends Bestelling implements Comparable<Bestelling> {
                 e.printStackTrace();
             }
         }
-    @Override
-    public int compareTo(Bestelling bestelling) {
-        return  (this.getBesteldatum().compareTo(bestelling.getBesteldatum()));
-    }
-
-
 }
 
 
